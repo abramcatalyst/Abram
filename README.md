@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LaCatalyst
-- 👀 I’m interested in web and mobile development
+- 👀 I’m interested in web and mobile application development
 - 🌱 I’m currently learning flutter 
 - 💞️ I’m looking to collaborate on projects in php and laravel
 - 📫 How to reach me abramcatalyst@gmail.com
