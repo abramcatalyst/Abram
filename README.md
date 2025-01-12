@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @LaCatalyst
-- 👀 I’m interested in web and mobile application development
-- 🌱 I’m currently learning flutter 
-- 💞️ I’m looking to collaborate on projects in php and laravel
-- 📫 How to reach me abramcatalyst@gmail.com
+# Hi, I’m @Abraham 👋
+
+- 👀 I'm passionate about web development and backend technologies.
+- 🌱 Currently, I'm learning **FlutterFlow** and enhancing my skills in mobile app development.
+- 🔧 I'm building a **Test Evaluation** project called **ReevaluateMe** and a **complex ecommerce platform**  using **PHP** and **Laravel**.
+- 💡 I’m always looking for opportunities to collaborate on **PHP**, **Laravel**, and **ReactNativ** projects.
+- 📫 Reach me via email at [abramcatalyst@gmail.com](mailto:onucheabram@gmail.com).
+
+Feel free to check out my repositories and contribute! ✨
+
 
 <!---
 LaCatalyst/LaCatalyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
