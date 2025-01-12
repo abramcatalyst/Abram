@@ -4,7 +4,7 @@
 - 🌱 Currently, I'm learning **FlutterFlow** and enhancing my skills in mobile app development.
 - 🔧 I'm building a **Test Evaluation** project called **ReevaluateMe** and a **complex ecommerce platform**  using **PHP** and **Laravel**.
 - 💡 I’m always looking for opportunities to collaborate on **PHP**, **Laravel**, and **ReactNativ** projects.
-- 📫 Reach me via email at [abramcatalyst@gmail.com](mailto:onucheabram@gmail.com).
+- 📫 Reach me via email at [onucheabram@gmail.com](mailto:onucheabram@gmail.com).
 
 Feel free to check out my repositories and contribute! ✨
 
